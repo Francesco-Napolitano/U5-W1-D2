@@ -29,6 +29,5 @@ public class Menu {
 		System.out.println("DRINKS");
 		this.drinkList.forEach(System.out::println);
 		System.out.println();
-
 	}
 }

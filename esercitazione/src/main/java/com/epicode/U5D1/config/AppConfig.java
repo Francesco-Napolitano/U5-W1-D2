@@ -1,5 +1,10 @@
-package com.epicode.U5D1.entities;
+package com.epicode.U5D1.config;
 
+import com.epicode.U5D1.entities.Drink;
+import com.epicode.U5D1.entities.Menu;
+import com.epicode.U5D1.entities.Pizza;
+import com.epicode.U5D1.entities.Topping;
+import lombok.Value;
 import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Configuration;
 
